@@ -74,7 +74,7 @@ backend/
 ### Endpoint:
 
 ```
-POST /api/scan
+POST http://127.0.0.1:5000/api/scan
 ```
 
 ### Request Body:
